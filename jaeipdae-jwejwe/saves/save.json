@@ -1,0 +1,30 @@
+{
+  "player": {
+    "branch": "해병대",
+    "job": "운전",
+    "rank": "이병",
+    "stats": {
+      "hp": 62,
+      "intel": 54,
+      "mental": 71,
+      "grudge": 12
+    },
+    "progress": 0.07692307692307693,
+    "train_count": 0,
+    "inventory": [],
+    "accepted_nco": false,
+    "hidden_bonus": 0.0
+  },
+  "affinity": {
+    "senior_kim": 47,
+    "senior_park": 47,
+    "peer_lee": 56,
+    "junior_choi": 53,
+    "sergeant_jung": 47
+  },
+  "cycle": 4,
+  "done_branch_events": [
+    "천자봉 행군"
+  ],
+  "nco_offered": false
+}
